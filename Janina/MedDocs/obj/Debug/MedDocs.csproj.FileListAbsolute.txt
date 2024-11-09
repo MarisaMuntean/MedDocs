@@ -1,0 +1,9 @@
+D:\Facultate\Unihack\MedDocs\MedDocs\bin\Debug\MedDocs.exe.config
+D:\Facultate\Unihack\MedDocs\MedDocs\bin\Debug\MedDocs.exe
+D:\Facultate\Unihack\MedDocs\MedDocs\bin\Debug\MedDocs.pdb
+D:\Facultate\Unihack\MedDocs\MedDocs\obj\Debug\MedDocs.csproj.AssemblyReference.cache
+D:\Facultate\Unihack\MedDocs\MedDocs\obj\Debug\MedDocs.Properties.Resources.resources
+D:\Facultate\Unihack\MedDocs\MedDocs\obj\Debug\MedDocs.csproj.GenerateResource.cache
+D:\Facultate\Unihack\MedDocs\MedDocs\obj\Debug\MedDocs.csproj.CoreCompileInputs.cache
+D:\Facultate\Unihack\MedDocs\MedDocs\obj\Debug\MedDocs.exe
+D:\Facultate\Unihack\MedDocs\MedDocs\obj\Debug\MedDocs.pdb
